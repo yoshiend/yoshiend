@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoshiend
+👋 Hi, I’m @yoshiend
 
 <!---
 yoshiend/yoshiend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
